@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=ambient_gradient) <br /> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=ambient_gradient)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=ambient_gradient" alt="내 스탯"  style="width: 80%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=ambient_gradient" alt="가장 많이 사용된 언어"  style="width: 80%;">
+
