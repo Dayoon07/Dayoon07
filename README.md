@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ambient_gradient -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=dayoon07&theme=default) <br /> 
+![](https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true) <br /> 
 ![](https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default) 
 
