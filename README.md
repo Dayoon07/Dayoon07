@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=dayoon07&theme=ambient_gradient) <br /> 
 ![](https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=ambient_gradient) <br /> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=ambient_gradient) <br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=dayoon07&theme=ambient_gradient) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=ambient_gradient) 
 
 
