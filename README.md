@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- ambient_gradient -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dayoon07&theme=default) <br /> 
-![](https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default) <br /> 
+![](https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default) 
 
 
