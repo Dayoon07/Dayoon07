@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ambient_gradient -->
+
 <a href="https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default" height="180" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default" height="180" />
 </a>
-![](https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true) 
 
+<img src="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" height="180" />
