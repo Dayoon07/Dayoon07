@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ambient_gradient -->
-![](https://github-profile-trophy.vercel.app/?username=dayoon07)
-![](https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true) <br /> 
-![](https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default) 
-
+<a href="https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayoon07&show_icons=true&theme=default" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default" />
+</a>
+![](https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true) 
 
