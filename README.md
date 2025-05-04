@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" height="180" />
 
 ## 기술 스택
-![https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VisualStudioCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![SpringToolSuite](https://img.shields.io/badge/Spring%20Tool%20Suite%20-6DB33F?style=for-the-badge&logo=eclipse&logoColor=white)
