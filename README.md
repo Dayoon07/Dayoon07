@@ -84,9 +84,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff" />
 <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=fff" /> -->
 
-## 🛠️ 버전관리 & 협업  
-<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+## 🛠️ 버전관리 & 협업
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+</div>
 
 <!-- ## 💻 운영체제  
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
