@@ -91,8 +91,8 @@ springboot-video-platform은 Spring Boot를 기반으로 한 동영상 플랫폼
   <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange" />
 </div>
 
-## 🛠️ 버전관리 & 협업
-<div style="display: flex;">
+### 버전관리 & 협업
+<div style="display: flex; height: 25px;">
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </div>
