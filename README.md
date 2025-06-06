@@ -42,6 +42,8 @@ springboot-video-platform은 Spring Boot를 기반으로 한 동영상 플랫폼
 - Email: [gangd0642@gmail.com](mailto:gangd0642@gmail.com)  
 - GitHub: [dayoon07](https://github.com/Dayoon07)
 
+<!-- 
+
 # 기술 스택
 
 ### IDE & 개발 도구  
@@ -96,6 +98,8 @@ springboot-video-platform은 Spring Boot를 기반으로 한 동영상 플랫폼
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </div>
+
+-->
 
 <!-- ## 💻 운영체제  
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
