@@ -79,6 +79,8 @@ springboot-video-platform은 Spring Boot를 기반으로 한 동영상 플랫폼
   <!-- <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" /> -->
 </div>
 
+<!-- 
+
 ### 데이터베이스 & 서버
 <div style="display: flex; height: 25px;">
   <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff" />
