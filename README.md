@@ -20,7 +20,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayoon07&layout=compact&theme=default" height="180" />
 </a>
 
-<img src="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" height="180" />
+<a href="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" height="180" />
+</a>
 
 # 안녕하세요 저는
 
