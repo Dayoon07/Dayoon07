@@ -24,21 +24,26 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" height="180" />
 </a> -->
 
+```bash
+  # cmd 창을 열고 명령어를 입력해보세요
+  npx dayoon07
+```
+
 # 안녕하세요 저는
 
 문제 해결과 협업을 통해 함께 성장하는 개발자가 되고 싶은 강다윤입니다. 프론트엔드와 백엔드 프로젝트를 진행하며 다양한 경험을 쌓았고, 개발 과정에서 마주한 문제를 단순히 넘기지 않고 원인을 깊이 분석하고 해결하는 데에서 보람을 느꼈습니다. 팀 프로젝트를 통해 협업의 중요성을 실감했는데, 특히 의견 충돌이 있었던 상황에서 서로의 생각을 조율하며 더 나은 결과를 만들어낸 경험이 기억에 남습니다. 그 과정에서 협업은 단순히 역할을 나누는 것을 넘어, 서로에게 배우고 성장하는 과정이라는 걸 깨달았습니다. 앞으로도 끊임없이 성장할 수 있는 모습을 보여드리겠습니다.
 
 # 주요 프로젝트
 
+### 🔹 [shortform-[FlipFlop]](https://github.com/Dayoon07/shortform)
+숏폼 플랫폼을 구현한 프로젝트입니다. UI는 유튜브의 쇼츠, 틱톡, 인스타그램의 릴스를 참고해 만들었으며 템플릿 엔진은 Thymeleaf를 사용했습니다. 주요 기능으로는 팔로우 기능, 영상 업로드, 댓글 & 답글, 좋아요 기능, 영상 스크롤 기능이 있습니다.
+
 ### 🔹 movie-ticket &nbsp; &nbsp; [FE](https://github.com/Dayoon07/react-movie-ticket-ui) &nbsp; &nbsp; [BE](https://github.com/Dayoon07/springboot-movie-ticket)
 프론트엔드는 React 기반의 SPA 프레임워크로 구현되었고, 백엔드는 Spring Boot 기반 REST API 서버로 분리되어 있으며 각각 별도의 GitHub 레포지토리로 관리됩니다. 주요 기능은 영화 예매, 좌석 선택, 티켓 출력, 환불 등이 있습니다.
 
-### 🔹 [mycloud-project](https://github.com/Dayoon07/mycloud-project)
-클라우드를 일부분 구현한 프로젝트입니다. 메일 기능, 엑세스 키 기능을 활용해 다른 사람에게 나의 파일을 공유할 수 있습니다.
-
 # 최근 소식
+- WPF, C#을 활용한 데스크탑 애플리케이션 개발을 학습 중입니다.
 - Github Actions를 활용한 CI/CD 파이프라인 구축을 학습 중입니다.
-- 영화 예매 키오스크를 웹 버전으로 만드는 개발 진행 중
 
 # 연락처
 - Email: [gangd0642@gmail.com](mailto:gangd0642@gmail.com)  
