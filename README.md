@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 </a> -->
 
 ```bash
-  # cmd 창을 열고 명령어를 입력해보세요
   npx dayoon07
 ```
 
