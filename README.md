@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=dayoon07&hide_border=true&border_radius=0&locale=ko&short_numbers=true" height="180" />
 </a> -->
 
-```bash
-  npx dayoon07
+```bash 
+npx dayoon07
 ```
 
 # 안녕하세요 저는
